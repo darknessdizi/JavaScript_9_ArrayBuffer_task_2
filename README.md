@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «`ArrayBuffer`»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/xch5m0jmjc70cdse?svg=true)](https://ci.appveyor.com/project/darknessdizi/javascript-9-arraybuffer-task-2)
+
 ## `ArrayBuffer`
 
 ### Легенда
